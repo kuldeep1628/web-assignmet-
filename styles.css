@@ -1,0 +1,191 @@
+body{
+    background-color: white;
+}
+
+#logo 
+{
+    height: 120px;
+    margin: auto;
+    padding: 10px 10px;
+    font-weight: bold;
+    font-size: 150%;
+    
+    text-align:center;
+    text-decoration: underline;
+   
+    
+}
+
+#container
+{
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #e0ddddbd;
+    
+}
+li
+{
+    
+    height: 120px;
+    margin: 10px 10px;
+    padding: 5px;
+    background-image: url('');
+}
+
+img
+{
+    float: left;
+    height:100px;
+    width:100px;
+    margin:10px 10px;
+}
+.alignit
+{
+    float: left;
+    height:100px;
+    width:300px;
+    margin:10px 10px;
+    
+}
+.alignitr1
+{
+    float: right;
+    height:40px;
+    width:120px;
+    margin:10px 10px;
+    background-color: #ff751a;
+}
+.alignitr2
+{
+    float: right;
+    height:40px;
+    width:120px;
+    margin:10px 10px;
+    background: #ffd633;
+}
+#make
+{
+    height: 20px;
+    width: 100%;
+    background-image: url('');
+}
+a
+{
+    text-decoration: none ;
+    color: #000000;
+}
+a:hover
+{
+    text-decoration: underline;
+  
+    
+    cursor: pointer;
+}
+#foot1
+			{
+				height: 200px;
+				width: 100%;
+				margin: 20px auto;
+				padding: 20px 20px;
+				text-align: center;
+				
+				
+			
+			}
+			#foot2
+			{
+				height: 450px;
+				margin: 0px;
+				padding: 20px 20px;
+        text-align: center;
+        font:white;
+				
+			}
+			.smallbox
+			{
+				float: left;
+				height:auto;
+				width: 250px;
+				margin-top: 0px;
+				margin-bottom: 0px;
+				margin-right: 20px;
+				margin-left: 20px;
+			
+			}
+			a
+			{
+				text-decoration: none ;
+				color: #000000;
+			}
+		
+   * {box-sizing: border-box;}
+   
+   body {
+     margin: 0;
+   
+   }
+   
+   .topnav {
+     overflow: hidden;
+     background-color: #e9e9e9;
+     height: 60px;
+    
+   }
+   
+   .topnav a {
+     float: left;
+     display: block;
+     color: black;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+   }
+   
+   .topnav a:hover {
+     background-color: #ddd;
+     color: black;
+   }
+   
+   .topnav a.active {
+     background-color: #2196F3;
+     color: white;
+   }
+   
+   .topnav .search-container {
+     float: right;
+   }
+   
+   .topnav input[type=text] {
+     padding: 6px;
+     margin-top: 8px;
+     font-size: 17px;
+     border: none;
+   }
+   
+   .topnav .search-container button {
+     float: right;
+     padding: 6px 10px;
+     margin-top: 8px;
+     margin-right: 16px;
+     background: #ddd;
+     font-size: 17px;
+     border: none;
+     cursor: pointer;
+   }
+   
+   .topnav .search-container button:hover {
+     background: #ccc;
+   }
+   
+   .box1
+   {
+     
+     height: 200px;     
+     padding: 5px;
+     text-align: center;
+     margin:70px 120px;
+     background-color: white;
+     box-shadow: 5px 10px 8px #888888;
+    }
+  
