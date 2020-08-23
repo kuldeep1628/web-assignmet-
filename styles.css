@@ -11,7 +11,7 @@ body{
     font-size: 150%;
     
     text-align:center;
-    text-decoration: underline;
+    
    
     
 }
@@ -52,16 +52,16 @@ img
     float: right;
     height:40px;
     width:120px;
-    margin:10px 10px;
-    background-color: #ff751a;
+    
+    background-color:orangered;
 }
 .alignitr2
 {
     float: right;
     height:40px;
     width:120px;
-    margin:10px 10px;
-    background: #ffd633;
+   
+    background:  white;
 }
 #make
 {
